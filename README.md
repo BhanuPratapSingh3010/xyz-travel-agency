@@ -1,12 +1,38 @@
-# React + Vite
+# ✈️ XYZ Travel Agency – Trip Booking Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the front-end web application for XYZ Travel Agency, a platform that allows users to search, view, and book their dream vacations.
 
-Currently, two official plugins are available:
+This project is part of an assignment to build a responsive React.js application with dynamic data, filtering, form validation, and animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Home Page** with search bar and featured destinations
+- ✅ **Search Results Page** with filters for price and duration
+- ✅ **Trip Details Page** with images, itinerary, and pricing
+- ✅ Animated transitions using Framer Motion
+- ✅ Dynamic trip data using mock JSON
+- ✅ Responsive design (mobile/tablet/desktop)
+- ✅ Form validation and real-time updates using React state
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js (Create React App)
+- React Router
+- Framer Motion (for animations)
+- Tailwind CSS (for responsive UI)
+- JSON (mock trip data)
+
+---
+
+## 📦 How to Run Locally
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/xyz-travel-agency.git
+   cd xyz-travel-agency
+2. npm install
+3. npm run dev
