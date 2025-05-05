@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "destination": "Bali, Indonesia",
+      "price": "800",
+      "duration": "7 days",
+      "rating": "4.8",
+      "images": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1573451448400-d673a9ff92c7?auto=format&fit=crop&w=800&q=60"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Bali",
+        "Day 2: Visit to Uluwatu Temple",
+        "Day 3: Snorkeling at Nusa Dua",
+        "Day 4: Local market tour",
+        "Day 5-7: Relax at beach resort"
+      ]
+    },
+    {
+      "id": 2,
+      "destination": "Kyoto, Japan",
+      "price": "1200",
+      "duration": "5 days",
+      "rating": "4.7",
+      "images": [
+        "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=800&q=60",
+        "https://plus.unsplash.com/premium_photo-1661902398022-762e88ff3f82?w=600&auto=format&fit=crop&q=60"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Kyoto",
+        "Day 2: Tour of Kinkaku-ji Temple",
+        "Day 3: Cherry blossom viewing",
+        "Day 4: Local food experience",
+        "Day 5: Departure"
+      ]
+    },
+    {
+      "id": 3,
+      "destination": "Paris, France",
+      "price": "1500",
+      "duration": "6 days",
+      "rating": "4.9",
+      "images": [
+        "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=60",
+        "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=800&q=60"
+      ],
+      "itinerary": [
+        "Day 1: Eiffel Tower & Seine Cruise",
+        "Day 2: Louvre Museum",
+        "Day 3: Montmartre walking tour",
+        "Day 4: Versailles day trip",
+        "Day 5-6: Cafés & shopping"
+      ]
+    },
+    {
+      "id": 4,
+      "destination": "Rome, Italy",
+      "price": "1300",
+      "duration": "6 days",
+      "rating": "4.6",
+      "images": [
+        "https://media.istockphoto.com/id/539115110/photo/colosseum-in-rome-and-morning-sun-italy.webp?a=1&b=1&s=612x612&w=0&k=20&c=YLbEWFTxnvmIGrzV7XPEMXuL41KdVYEy00TZQoVDTrg=",
+        "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ="
+      ],
+      "itinerary": [
+        "Day 1: Colosseum and Roman Forum",
+        "Day 2: Vatican City and Sistine Chapel",
+        "Day 3: Trevi Fountain and Pantheon",
+        "Day 4-6: Wine tasting & leisure"
+      ]
+    },
+    {
+      "id": 5,
+      "destination": "Cairo, Egypt",
+      "price": "950",
+      "duration": "5 days",
+      "rating": "4.5",
+      "images": [
+        "https://media.istockphoto.com/id/531252132/photo/giza-pyramids-and-sphinx-in-cairo-egypt.webp?a=1&b=1&s=612x612&w=0&k=20&c=r7mT2PsFOG06Ro3a9H5Lb3BK_cyZ5Xo4DESRv4LMiqE=",
+        "https://media.istockphoto.com/id/1355995823/photo/luxor-temple-famous-landmark-of-egypt-first-pylon-view.webp?a=1&b=1&s=612x612&w=0&k=20&c=S2S8PV_-XEsf5uxWq7J0WuCZJzxcgyy2AxZzH3dLA2M="
+      ],
+      "itinerary": [
+        "Day 1: Arrival and city tour",
+        "Day 2: Pyramids of Giza & Sphinx",
+        "Day 3: Egyptian Museum",
+        "Day 4-5: Nile river cruise"
+      ]
+    },
+    {
+      "id": 6,
+      "destination": "New York City, USA",
+      "price": "1400",
+      "duration": "6 days",
+      "rating": "4.8",
+      "images": [
+        "https://media.istockphoto.com/id/623595614/photo/new-york-city-skyline-statue-of-liberty.webp?a=1&b=1&s=612x612&w=0&k=20&c=oSUIsK6uKeNEN60xX3j4SErLXE0iy0HQiSpPhHVxW6I=",
+        "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dXNhfGVufDB8fDB8fHww"
+      ],
+      "itinerary": [
+        "Day 1: Times Square and Broadway show",
+        "Day 2: Central Park and Museums",
+        "Day 3: Statue of Liberty",
+        "Day 4-6: Shopping & food tour"
+      ]
+    }
+  ]
+  
